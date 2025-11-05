@@ -43,6 +43,5 @@ public class Main {
         }
         wordAnalyzer = new WordAnalyzer(text);
         System.out.println(wordAnalyzer.getAnalysis());
-        //4 - save result to a file
     }
 }
